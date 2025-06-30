@@ -1,4 +1,3 @@
-# pwskills-webpage
 # PW Skills Clone 💻
 
 This is a **responsive clone of the PW Skills landing page**, built using **HTML**, **Tailwind CSS**, and basic **JavaScript**. The goal of this project was to practice UI replication, responsiveness, and modern frontend development techniques.
