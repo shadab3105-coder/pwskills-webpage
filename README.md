@@ -22,7 +22,7 @@ This is a **responsive clone of the PW Skills landing page**, built using **HTML
 
 ## 📸 Live Preview
 
-🌐 [View it on GitHub Pages](https://<your-username>.github.io/pwskills-clone/)
+🌐 https://shadab3105-coder.github.io/pwskills-webpage/
 
 
 
